@@ -1,4 +1,4 @@
-# Health Sound Analysis Using Mel Spectrograms
+# CardiLung Insight
 
 This project, developed by myself [Abu Ubaida Aljerah](https://github.com/Ubaida10) and [Tahir Mustafvi](https://github.com/M-TahirMustafvi), uses machine learning and audio processing techniques to analyze heart and lung sounds, aiding in the detection of potential health issues. By converting sound recordings into Mel spectrograms and using a neural network model trained on specific medical conditions, this project identifies patterns associated with various diseases, providing a non-invasive approach to preliminary health diagnostics.
 
